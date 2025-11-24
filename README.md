@@ -1,0 +1,1 @@
+Student Library Book Management – A Spring Data JPA project managing books, libraries, and students, demonstrating CRUD operations and relationships between entities. Technologies: Spring Boot, Spring Data JPA, PostgreSQL, and Postman.
